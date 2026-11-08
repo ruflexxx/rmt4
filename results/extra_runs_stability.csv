@@ -1,0 +1,3 @@
+model,lang,run_a,run_b,identical_predictions,macro_F1_a,macro_F1_b
+qwen3.8-27b,eng,1,2,1.0,0.8347340820539614,0.8347340820539614
+qwen3.8-27b,kaz,1,2,1.0,0.8608234038679002,0.8608234038679002

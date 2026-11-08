@@ -1,0 +1,5 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/content/drive/MyDrive/a4/src/run_experiment.py:69: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  temperature=TEMPERATURE, max_tokens=MAX_TOKENS, timestamp=datetime.datetime.utcnow().isoformat(), **out)
+1408 calls per run per model; 2224 per model in total
+[QUOTA EXHAUSTED] gpt-oss-120b: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01m4dk3gmwet28fbah0vv3aztz` service tier `on_demand` on tokens per day (TPD): Limit 200. Progress is cached; rerun later. Do NOT discard: report it in the failure log.

@@ -1,0 +1,7 @@
+model,eng_only_correct,kaz_only_correct,p_two_sided
+gemini-3.5-flash-lite,6,9,0.6072387695312499
+gpt-oss-120b,7,4,0.548828125
+qwen3.8-27b,8,12,0.5034446716308594
+baseline-majority,0,0,1.0
+baseline-random,24,29,0.5831321542611763
+baseline-tfidf-lr,11,23,0.05761267291381955

@@ -1,0 +1,2 @@
+408 calls per run per model; 408 per model in total
+[QUOTA EXHAUSTED] gemini-3.5-flash-lite: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google. Progress is cached; rerun later. Do NOT discard: report it in the failure log.

@@ -1,0 +1,2 @@
+200 calls per run per model; 200 per model in total
+[QUOTA EXHAUSTED] qwen3.8-27b: Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m4dk3gmwet28fbah0vv3aztz` service tier `on_demand` on requests per day (RPD): Limit 1000. Progress is cached; rerun later. Do NOT discard: report it in the failure log.

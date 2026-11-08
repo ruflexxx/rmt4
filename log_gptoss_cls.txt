@@ -1,0 +1,2 @@
+408 calls per run per model; 408 per model in total
+[QUOTA EXHAUSTED] gpt-oss-120b: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01m4dk3gmwet28fbah0vv3aztz` service tier `on_demand` on tokens per day (TPD): Limit 200. Progress is cached; rerun later. Do NOT discard: report it in the failure log.
